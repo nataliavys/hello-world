@@ -1,2 +1,2 @@
-I'm changing this file. This is the first change.
-This is the second change.
+This is text file that was created on new dev branch, 
+
